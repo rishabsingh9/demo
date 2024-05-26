@@ -17,4 +17,4 @@ add_numbers(){
     sum=$(expr $1 + $2)
     echo "The sum of operands $1 and $2 is:$sum"
 }
-add_numbers 10 5
+add_numbers 25 20
